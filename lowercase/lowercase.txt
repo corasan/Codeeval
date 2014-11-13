@@ -1,0 +1,4 @@
+Hello World.
+This is SOME SAMPLE text.
+GIVEN A STRING WRITE A PROGRAM TO CONVERT IT INTO LOWERCASE.
+One Piece is a Japanese manga series written and illustrated by Eiichiro Oda.
